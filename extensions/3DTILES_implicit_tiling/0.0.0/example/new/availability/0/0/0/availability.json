@@ -1,0 +1,49 @@
+{
+	"buffers": [
+    {
+      "uri": "0/0/0.bin"
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 0
+    }
+  ],
+  "extensions": {
+    "3DTILES_metadata": {
+      "class": "tree",
+      // instance table
+      "properties": {
+        "birds": {
+
+        }
+      }
+    },
+    "3DTILES_layers": {
+      "contents": [
+        {
+          "availability": 0
+        },
+        {
+          "availability": 1
+        },
+        {
+          "availability": 2
+        }
+      ]
+    }
+  },
+  "tile": {
+    "tileAvailability": {
+      "bufferView": 0
+    },
+    "virtualLeafAvailable": {
+      "complete": true
+    }
+  },
+  "contentAvailability": {
+    "buffer
+  }
+}
